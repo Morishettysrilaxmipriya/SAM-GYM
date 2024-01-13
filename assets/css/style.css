@@ -42,9 +42,7 @@ body {
     overflow: hidden;
 }
 
-.header::after,
-.header::before,
-.section::after,
+
 .section::before {
     content: "";
 
@@ -247,7 +245,7 @@ body {
 .footer {
     padding: 30px 0;
     border-top: 1px solid #fff;
-    text-align: center;
+    text-align: right;
 }
 
 /* End Footer */
