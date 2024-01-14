@@ -1,6 +1,6 @@
  <h1>GYM</h1>
 
-![alt img dsc](..main.jpg)
+![alt img dsc](documentation/images/main.jpg)
 Created to provide guidance and inspiration to the people interested in taking care of their health and body. This site is for those who are interested in exercising and keeping their body fix and in shape. This site is made for educational purpose only.
 
 <h2>Existing Features</h2>
@@ -58,27 +58,71 @@ This section contain the copyright logo.
 
 I have used several technologies that have enabled this design to work:
 
-HTML:[HTML](https://www.html.com)<br>
+[HTML:](https://www.html.com)<br>
 Used as the basic building block for the project and to structure the content.<br>
-CSS:<br>
+[CSS:](https://www.css.com)<br>
 Used to style all the web content across the project.<br>
-Google Fonts:<br>
+[Google Fonts:](https://www.fonts.google.com)<br>
 Used to obtain the fonts linked in the header, fonts used were Playfair and Cookie.<br>
-Google Developer Tools:<br>
+[Google Developer Tools:](https://www.developer.chrome.com.com)<br>
 Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.<br>
-GitHub:<br>
+[GitHub:](https://www.github.com)<br>
 Used to store code for the project after being pushed.<br>
-Git:<br>
+[Git:](https://www.git.com)<br>
 Used for version control by utilising the Codenywhere terminal to commit to Git and Push to GitHub.<br>
-Color Contrast Accessibility Validator:<br>
-Allowed me to test the colour contrast of my webpage.<br>
-W3C Markup Validation Service:<br>
+[W3C Markup Validation Service:](https://validator.w3.org/)<br>>
 Used to validate all HTML code written and used in this webpage.<br>
-W3C CSS Validation Service:<br>
+[W3C CSS Validation Service:](https://jigsaw.w3.org/css-validator)<br>
 Used to validate all CSS code written and used in this webpage.<br>
-Freeformatter CSS Beautify:<br>
+[Freeformatter CSS Beautify:](https://www.freeformatter.com/css-beautifier.html) <br>
 Used to accurately format my CSS code.<br>
-Freeformatter HTML Formatter:<br>
+[Freeformatter HTML Formatter:](https://www.freeformatter.com/css-beautifier.html) <br>
 Used to accurately format my HTML code.<br>
-AmIResponsive:<br>
+[AmIResponsive:](https://ui.dev/amiresponsive) <br>
 Used to generate repsonsive image used in README file.<br>
+
+<h3>Testing</h3>
+
+1.This page works on different browsers: Chrome, Microsoft Edge, Firefox.<br>
+2.On smaller screen sizes the logo is located at the top of the navigation bar.<br>
+3.I checked that the page is responsive, works and looks good on the standard screen sizes (ipad, MotoG4, iphone6/7/8, iphone5/SE and Galaxy S5) using the devtools device toolbar.<br>
+4.I have checked that the above mentioned features work as expected, the form requires entry on each field, the email field accepts only email address and the checkbox requires that the user checks it before submission, and the submit button allows the user to submit feedback.<br>
+
+<h3>Validator Testing</h3>
+<h4>HTML</h4>
+Errors were detected when passing through the official W3C validator and they are corrected. There was a warning but it was not relevant to the indicated section of the code.<br>
+
+     [Gym:](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmorishettysrilaxmipriya.github.io%2FSAM-GYM%2F)<br>
+
+     <h3>CSS</h3>
+
+Errors were detected when passing through the official (Jigsaw) validator and they are corrected.<br>
+
+[CSS Validation:](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmorishettysrilaxmipriya.github.io%2FSAM-GYM%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <br>
+
+<h3></h3>Deployment</h3><br>
+
+1.The site was deployed to GitHub pages as follows:<br>
+i.In the GitHub repository, navigate to the Settings tab.<br>
+ii.From the source section drop-down menu, select the Master or Main Branch.<br>
+iii.Once the master or main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.<br>
+
+[The live link can be found here:] (https://morishettysrilaxmipriya.github.io/SAM-GYM/) <br>
+
+<h3>Credits</h3><br>
+
+1. <h4>Base code Reference:</h4><br>
+   I leveraged the Love Running project as a foundational template for developing my code. Drawing upon the knowledge acquired during the project walkthrough, I applied key concepts and techniques to tailor the code to my specific needs. Additionally, I referred to the source code for troubleshooting and resolving issues in my implementation. The Code Institute's learning platform Code Institute. served as a valuable resource throughout this process." <br>
+
+2.<h4>AI Search Engines:</h4> <br>
+[OpenAI Chat](https://chat.openai.com/) <br>
+[Perplexity](https://www.perplexity.ai/)<br>
+
+3.<h4>Readme References</h4><br>
+[John Meditation GitHub](https://github.com/Joh201/john-meditation)<br>
+[La Petite Traveller GitHub](https://github.com/daisygunn/la-petite-traveller) <br>
+
+4.<h4>Code Validator:</h4> <br>
+[W3C Jigsaw Validator](https://jigsaw.w3.org/) <br>
+
+5.The social media logos were taken from wikipedia.
