@@ -92,7 +92,7 @@ Used to generate repsonsive image used in README file.<br>
 <h4>HTML</h4>
 Errors were detected when passing through the official W3C validator and they are corrected. There was a warning but it was not relevant to the indicated section of the code.<br>
 
-     [Gym:](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmorishettysrilaxmipriya.github.io%2FSAM-GYM%2F)<br>
+![alt img dsc](documentation/images/HTML_validator.jpg)<br>
 
      <h3>CSS</h3>
 
