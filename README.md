@@ -116,11 +116,11 @@ I leveraged the Love Running project as a foundational template for developing m
 [OpenAI Chat](https://chat.openai.com/) <br>
 [Perplexity](https://www.perplexity.ai/)<br>
 
-3.Readme References<br>
+3.Some of the images and some code snippet is taken from codewithrandom site.<br>
+
+4.Readme References<br>
 [John Meditation GitHub](https://github.com/Joh201/john-meditation)<br>
 [La Petite Traveller GitHub](https://github.com/daisygunn/la-petite-traveller) <br>
 
-4.Code Validator: <br>
+5.Code Validator: <br>
 [W3C Jigsaw Validator](https://jigsaw.w3.org/) <br>
-
-5.The social media logos were taken from wikipedia.
