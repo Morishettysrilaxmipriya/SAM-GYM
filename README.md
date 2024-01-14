@@ -70,7 +70,7 @@ Used as a primary method of fixing spacing issues, finding bugs, and testing res
 Used to store code for the project after being pushed.<br>
 [Git:](https://www.git.com)<br>
 Used for version control by utilising the Codenywhere terminal to commit to Git and Push to GitHub.<br>
-[W3C Markup Validation Service:](https://validator.w3.org/)<br>>
+[W3C Markup Validation Service:](https://validator.w3.org/)<br>
 Used to validate all HTML code written and used in this webpage.<br>
 [W3C CSS Validation Service:](https://jigsaw.w3.org/css-validator)<br>
 Used to validate all CSS code written and used in this webpage.<br>
@@ -96,33 +96,31 @@ Errors were detected when passing through the official W3C validator and they ar
 
      <h3>CSS</h3>
 
-Errors were detected when passing through the official (Jigsaw) validator and they are corrected.<br>
-
 [CSS Validation:](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmorishettysrilaxmipriya.github.io%2FSAM-GYM%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) <br>
 
-<h3></h3>Deployment</h3><br>
+<h2>Deployment:</h2><br>
 
 1.The site was deployed to GitHub pages as follows:<br>
 i.In the GitHub repository, navigate to the Settings tab.<br>
 ii.From the source section drop-down menu, select the Master or Main Branch.<br>
 iii.Once the master or main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.<br>
 
-[The live link can be found here:] (https://morishettysrilaxmipriya.github.io/SAM-GYM/) <br>
+The live link can be found here: (https://morishettysrilaxmipriya.github.io/SAM-GYM/) <br>
 
 <h3>Credits</h3><br>
 
-1. <h4>Base code Reference:</h4><br>
-   I leveraged the Love Running project as a foundational template for developing my code. Drawing upon the knowledge acquired during the project walkthrough, I applied key concepts and techniques to tailor the code to my specific needs. Additionally, I referred to the source code for troubleshooting and resolving issues in my implementation. The Code Institute's learning platform Code Institute. served as a valuable resource throughout this process." <br>
+1.Base code Reference:<br>
+I leveraged the Love Running project as a foundational template for developing my code. Drawing upon the knowledge acquired during the project walkthrough, I applied key concepts and techniques to tailor the code to my specific needs. Additionally, I referred to the source code for troubleshooting and resolving issues in my implementation. The Code Institute's learning platform Code Institute. served as a valuable resource throughout this process." <br>
 
-2.<h4>AI Search Engines:</h4> <br>
+2.AI Search Engines: <br>
 [OpenAI Chat](https://chat.openai.com/) <br>
 [Perplexity](https://www.perplexity.ai/)<br>
 
-3.<h4>Readme References</h4><br>
+3.Readme References<br>
 [John Meditation GitHub](https://github.com/Joh201/john-meditation)<br>
 [La Petite Traveller GitHub](https://github.com/daisygunn/la-petite-traveller) <br>
 
-4.<h4>Code Validator:</h4> <br>
+4.Code Validator: <br>
 [W3C Jigsaw Validator](https://jigsaw.w3.org/) <br>
 
 5.The social media logos were taken from wikipedia.
