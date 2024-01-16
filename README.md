@@ -116,9 +116,9 @@ I leveraged the Love Running project as a foundational template for developing m
 [OpenAI Chat](https://chat.openai.com/) <br>
 [Perplexity](https://www.perplexity.ai/)<br>
 
-3.Some of the images and some code snippet is taken from codewithrandom site.<br>
+3.Some of the images and some code references is taken from codewithrandom site.<br>
 
-4.Readme References<br>
+4.Readme References<br>s
 [John Meditation GitHub](https://github.com/Joh201/john-meditation)<br>
 [La Petite Traveller GitHub](https://github.com/daisygunn/la-petite-traveller) <br>
 
