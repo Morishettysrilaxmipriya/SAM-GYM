@@ -118,7 +118,7 @@ I leveraged the Love Running project as a foundational template for developing m
 
 3.Some of the images and some code references is taken from codewithrandom site.<br>
 
-4.Readme References<br>s
+4.Readme References<br>ss
 [John Meditation GitHub](https://github.com/Joh201/john-meditation)<br>
 [La Petite Traveller GitHub](https://github.com/daisygunn/la-petite-traveller) <br>
 
